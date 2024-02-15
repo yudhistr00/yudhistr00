@@ -1,16 +1,14 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**yudhistr00/yudhistr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Yudhistira Hamid**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Bangkit Cohort** di [Dicoding](https://www.dicoding.com/).<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/yudhistira-hamid)ku ya.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yudhistr00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
